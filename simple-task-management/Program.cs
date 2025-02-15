@@ -1,8 +1,4 @@
-﻿
-
-using System.Linq.Expressions;
-
-var firstTaskName = "";
+﻿var firstTaskName = "";
 var isFirstTaskComplete = false;
 
 var secondTaskName = "";
